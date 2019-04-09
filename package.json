@@ -1,8 +1,14 @@
 {
   "name": "ptlint",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.3",
+  "description": "Run linter with prettier",
+  "repository": "https://github.com/sstruct/ptlint",
+  "homepage": "https://github.com/sstruct/ptlint#readme",
+  "author": {
+    "name": "sstruct",
+    "email": "sstruct@gmail.com",
+    "url": "https://github.com/sstruct"
+  },
   "bin": {
     "prettylint": "bin/cli.js"
   },
@@ -14,7 +20,6 @@
     "prettier",
     "eslint"
   ],
-  "author": "sstruct@gmail.com",
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^10.0.1",

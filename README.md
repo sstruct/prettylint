@@ -4,7 +4,7 @@ Combine prettier and eslint.
 
 ## Install
 
-    $ npm install -g ptlint
+    $ npm install --save-dev ptlint
 
 ## Lint a project
 
@@ -30,3 +30,7 @@ More options:
 - [ ] Refactor with typescript
 - [ ] Unit Tests
 - [ ] CI/CD
+
+## Similar repos
+
+- https://github.com/ikatyang/prettylint
